@@ -1,7 +1,7 @@
 <h1 align="center">I'm Josh</h1>
 <h3 align="center">A broke student</h3>
 
-- 📫 How to reach me **joshtu0627@gmail.com**
+- reach me by **joshtu0627@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
