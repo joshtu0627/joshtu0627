@@ -1,6 +1,7 @@
 <h1 align="center">I'm Josh</h1>
 <h3 align="center">A broke student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshtu0627&label=Profile%20views&color=0e75b6&style=flat" alt="joshtu0627" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icer" height="30" width="40" /></a>
