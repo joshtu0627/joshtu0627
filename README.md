@@ -1,5 +1,4 @@
 <h1 align="center">I'm Josh</h1>
-<h3 align="center">A broke student</h3>
 
 - reach me by **joshtu0627@gmail.com**
 
