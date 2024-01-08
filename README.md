@@ -1,9 +1,14 @@
-# 💫 About Me:
-Hi! I am Josh!
-I'm currently working on finding fun side projects to do~
+# 🥸Hi! I am Josh!
+I'm currently finding software intern ~
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/trash7260) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/杜宗羲) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joshtu0627) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/杜宗羲) 
+# 🌐 Connect with me:
+<p align="left">
+<a href="https://twitter.com/icer11552889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icer11552889" height="30" width="40" /></a>
+<a href="https://fb.com/杜宗羲" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="杜宗羲" height="30" width="40" /></a>
+<a href="https://instagram.com/杜宗羲" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="杜宗羲" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/icer7260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icer7260" height="30" width="40" /></a>
+<a href="https://discord.gg/trash7260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trash7260" height="30" width="40" /></a>
+
 
 # 💻 Tech Stack:
 ## 😎 Web
