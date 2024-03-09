@@ -1,6 +1,5 @@
 <!-- Introduction -->
 <h1>🥸Hi! I am Josh!</h1>
-<p>I'm currently finding software intern ~</p>
 
 <!-- Connect with me Section -->
 <div class="section">
